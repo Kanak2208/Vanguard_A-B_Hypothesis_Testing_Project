@@ -148,6 +148,6 @@ jupyter notebook final.ipynb
 
 ## Acknowledgements
 
-Data sourced from the **Vanguard Digital Experiment Dataset** as part of the Ironhack Data Analytics Bootcamp, Berlin — June 2026.
+Data sourced from the **Vanguard Digital Experiment Dataset** as part of the Ironhack Data Analytics Bootcamp, Berlin, 2026.
 
 > *"The observed lift of +3.71% rejects H₀ but falls below the 5% cost threshold — the new UI is statistically better, but further monitoring is recommended before full rollout."*

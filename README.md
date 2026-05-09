@@ -77,7 +77,7 @@ The analysis covers funnel performance, error rates, time-on-step behavior, and 
 | | Link |
 |---|---|
 | 📊 **Interactive Dashboard** | [Vanguard Dashboard on Tableau Public](https://public.tableau.com/app/profile/kanak.yadav2046/viz/VanguardDashboard-IronhackProject_17783144758370/VanguardDashboard?publish=yes) |
-| 📽 **Story Presentation** | [Vanguard Presentation on Tableau Public]([Vanguard Presentation on Tableau Public](https://public.tableau.com/app/profile/kanak.yadav2046/viz/VanguardPresentation-IronhackProject/VanguardPresentation?publish=yes)) |
+| 📽 **Story Presentation** | [Vanguard Presentation on Tableau Public](https://public.tableau.com/app/profile/kanak.yadav2046/viz/VanguardPresentation-IronhackProject/VanguardPresentation?publish=yes) |
 
 ---
 

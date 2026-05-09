@@ -14,10 +14,10 @@ The analysis covers funnel performance, error rates, time-on-step behavior, and 
 
 | | Detail |
 |---|---|
-| **Period** | March 15 – June 20, 2017 |
+| **Period** | March 15 – June 20, 2017 |enrolled - 70,609 clients
 | **Control (A)** | Existing interface — 23,532 clients |
 | **Test (B)** | Redesigned interface — 26,968 clients |
-| **Total clients** | 50,500 |
+| **Total clients** | 50,500 (after data cleaning) |
 | **Significance level** | α = 0.05 |
 
 ---
@@ -36,7 +36,7 @@ The analysis covers funnel performance, error rates, time-on-step behavior, and 
 **H1 — Completion Rate**
 > H₀: Completion rates are similar between groups.
 > H₁: The new UI increases completion rate significantly.
-> **Result: Reject H₀** — p-value < 0.05. The new interface significantly improves completion rate. However, the +3.71pp lift falls below the **5% cost-effectiveness threshold**.
+> **Result: Reject H₀** — p-value < 0.05. The new interface significantly improves completion rate. However, the +3.71% lift falls below the **5% cost-effectiveness threshold**.
 
 **H2 — Demographic Fairness (Age)**
 > H₀: Average age of Control and Test groups is similar.

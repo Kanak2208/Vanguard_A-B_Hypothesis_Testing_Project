@@ -1,6 +1,8 @@
 # Vanguard A/B Hypothesis Testing — Ironhack Data Analytics Project
 
-![Vanguard Dashboard](ScreenshotVanguardDashboard.png)
+## 📊 Tableau Dashboard Preview
+
+![Vanguard Dashboard](screenshot-dashboard.png)
 
 ## Overview
 

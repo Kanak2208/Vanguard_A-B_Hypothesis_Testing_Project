@@ -2,7 +2,7 @@
 
 ## 📊 Tableau Dashboard Preview
 
-![Vanguard Dashboard](screenshot-dashboard.png)
+![Vanguard Dashboard](screenshot_dashboard.png)
 
 ## Overview
 

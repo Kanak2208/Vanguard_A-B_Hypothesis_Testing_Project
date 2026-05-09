@@ -1,6 +1,6 @@
 # Vanguard A/B Hypothesis Testing — Ironhack Data Analytics Project
 
-![Vanguard Dashboard](screenshots/Screenshot_2026-05-09_at_01_32_55.png)
+![Vanguard Dashboard](screenshots/Vanguard_Dashboard.png)
 
 ## Overview
 

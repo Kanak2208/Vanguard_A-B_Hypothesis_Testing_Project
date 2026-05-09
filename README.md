@@ -116,9 +116,9 @@ The analysis covers funnel performance, error rates, time-on-step behavior, and 
 
 | Name | GitHub | Role |
 |---|---|---|
-| **Kanak Yadav** | [@Kanak2208](https://github.com/Kanak2208) | EDA, Data analysis, hypothesis testing, Tableau dashboards, presentation |
-| **Diego** | — | EDA, funnel analysis, presentation |
-| **Seleasy** | — | Demographics analysis, hypothesis testing, presentation |
+| **Kanak Yadav** | [@Kanak2208](https://github.com/Kanak2208) | EDA, Data analysis, hypothesis testing, Tableau dashboards, presentation, Github |
+| **Diego Fornero** | [furby990](https://github.com/furby990) | EDA, funnel analysis, presentation |
+| **Selasey Junior** | [Selaseyjr](https://github.com/Selaseyjr) | Demographics analysis, hypothesis testing, presentation |
 
 ---
 

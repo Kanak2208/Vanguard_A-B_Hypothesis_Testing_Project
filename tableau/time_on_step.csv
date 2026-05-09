@@ -1,0 +1,11 @@
+Variation,process_step,time_diff
+Control,confirm,42.0
+Control,start,18.0
+Control,step_1,20.0
+Control,step_2,64.0
+Control,step_3,71.0
+Test,confirm,91.0
+Test,start,14.0
+Test,step_1,27.0
+Test,step_2,61.0
+Test,step_3,57.0

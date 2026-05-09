@@ -1,6 +1,6 @@
 # Vanguard A/B Hypothesis Testing — Ironhack Data Analytics Project
 
-![Vanguard Dashboard](screenshots/Vanguard_Dashboard.png)
+![Vanguard Dashboard](screenshots/VanguardDashboard.png)
 
 ## Overview
 
@@ -64,7 +64,7 @@ The analysis covers funnel performance, error rates, time-on-step behavior, and 
 │   ├── time_on_step.csv
 │   └── completion_by_age.csv
 ├── screenshots/                  # Dashboard screenshots
-│   └── Screenshot_2026-05-09_at_01_32_55.png
+│   └── screenshots/VanguardDashboard.png
 ├── functions.py                  # Helper functions (age_group, process_step_counts)
 ├── final.ipynb                   # Main analysis notebook
 └── README.md
@@ -76,8 +76,8 @@ The analysis covers funnel performance, error rates, time-on-step behavior, and 
 
 | | Link |
 |---|---|
-| 📊 **Interactive Dashboard** | [Vanguard Dashboard on Tableau Public](https://public.tableau.com/app/profile/kanak.yadav2046/viz/VanguardDashboard-IronhackProject/VanguardDashboard) |
-| 📽 **Story Presentation** | [Vanguard Presentation on Tableau Public](https://public.tableau.com/app/profile/kanak.yadav2046/viz/VanguardPresentation-IronhackProject/VanguardPresentation) |
+| 📊 **Interactive Dashboard** | [Vanguard Dashboard on Tableau Public](https://public.tableau.com/app/profile/kanak.yadav2046/viz/VanguardDashboard-IronhackProject_17783144758370/VanguardDashboard?publish=yes) |
+| 📽 **Story Presentation** | [Vanguard Presentation on Tableau Public]([Vanguard Presentation on Tableau Public](https://public.tableau.com/app/profile/kanak.yadav2046/viz/VanguardPresentation-IronhackProject/VanguardPresentation?publish=yes)) |
 
 ---
 

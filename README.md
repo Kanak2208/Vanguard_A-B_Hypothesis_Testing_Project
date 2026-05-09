@@ -26,10 +26,10 @@ The analysis covers funnel performance, error rates, time-on-step behavior, and 
 
 | Metric | Control | Test | Result |
 |---|---|---|---|
-| Completion Rate | 65.59% | 69.29% | ✅ +3.71pp lift |
-| Error Rate (Confirm step) | 37.84% | 11.29% | ✅ -26pp improvement |
+| Completion Rate | 65.59% | 69.29% | ✅ +3.71% lift |
+| Error Rate (Confirm step) | 37.84% | 11.29% | ✅ -26% improvement |
 | Median Time per Step | 35.0s | 34.0s | ➖ No significant change |
-| Funnel retention | Baseline | +8–10pp at every step | ✅ Improved |
+| Funnel retention | Baseline | +8–10% at every step | ✅ Improved |
 
 ### Hypothesis Results
 
@@ -85,7 +85,6 @@ The analysis covers funnel performance, error rates, time-on-step behavior, and 
 
 - **KPI Cards** — Completion rate lift, total users, completions, error rate summary
 - **Completion Rate — Test vs Control** — Bar chart comparing group completion rates
-- **Funnel Drop-off by Step** — User retention at each step of the process
 - **Error Rate per Funnel Step** — Backward navigation rate per step per group
 - **Median Time per Step** — Time spent at each step (Mann-Whitney U test)
 - **Client Distribution by Age Group** — Younger / Adult / Senior / Oldie breakdown
@@ -117,7 +116,7 @@ The analysis covers funnel performance, error rates, time-on-step behavior, and 
 
 | Name | GitHub | Role |
 |---|---|---|
-| **Kanak Yadav** | [@Kanak2208](https://github.com/Kanak2208) | Data analysis, hypothesis testing, Tableau dashboards |
+| **Kanak Yadav** | [@Kanak2208](https://github.com/Kanak2208) | EDA, Data analysis, hypothesis testing, Tableau dashboards, presentation |
 | **Diego** | — | EDA, funnel analysis, presentation |
 | **Seleasy** | — | Demographics analysis, hypothesis testing, presentation |
 
@@ -151,4 +150,4 @@ jupyter notebook final.ipynb
 
 Data sourced from the **Vanguard Digital Experiment Dataset** as part of the Ironhack Data Analytics Bootcamp, Berlin — June 2026.
 
-> *"The observed lift of +3.71pp rejects H₀ but falls below the 5% cost threshold — the new UI is statistically better, but further monitoring is recommended before full rollout."*
+> *"The observed lift of +3.71% rejects H₀ but falls below the 5% cost threshold — the new UI is statistically better, but further monitoring is recommended before full rollout."*

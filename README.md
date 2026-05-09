@@ -53,23 +53,25 @@ The analysis covers funnel performance, error rates, time-on-step behavior, and 
 ## Project Structure
 
 ```
-├── raw/                          # Raw source data (not tracked)
-│   ├── df_final_demo.csv
-│   ├── df_final_experiment_clients.csv
-│   ├── df_final_web_data_pt_1.csv
-│   └── df_final_web_data_pt_2.csv
-├── tableau/                      # Cleaned CSVs exported for Tableau
-│   ├── completion_rate.csv
-│   ├── error_rate.csv
-│   ├── demographics.csv
-│   ├── funnel.csv
-│   ├── time_on_step.csv
-│   └── completion_by_age.csv
-├── screenshots/                  # Dashboard screenshots
-│   └── screenshots/VanguardDashboard.png
-├── functions.py                  # Helper functions (age_group, process_step_counts)
-├── final.ipynb                   # Main analysis notebook
-└── README.md
+Vanguard-Assurance-UX-UI-Testing/
+│
+├── data_files/
+│   ├── raw/                         # Original raw datasets
+│   └── cleaned_tableau_exports/     # Cleaned datasets used in Tableau
+│
+├── jupyter notebooks/
+│   ├── Contribution notebooks/      # Supporting analysis notebooks
+│   ├── final code.ipynb             # Final data cleaning & transformation workflow
+│   └── functions.py                # Reusable Python functions
+│
+├── tableau/
+│   ├── Vanguard_Assurance_UX_UI_Test_Dashboard.twbx   # Tableau packaged workbook
+│   └── screenshot_dashboard.png                      # Dashboard preview image
+│
+├── __pycache__/                    # Python cache files (auto-generated)
+│
+├── README.md                      # Project documentation
+└── .gitignore                     # Files excluded from version control
 ```
 
 ---
@@ -78,20 +80,22 @@ The analysis covers funnel performance, error rates, time-on-step behavior, and 
 
 | | Link |
 |---|---|
-| 📊 **Interactive Dashboard** | [Vanguard Dashboard on Tableau Public](https://public.tableau.com/app/profile/kanak.yadav2046/viz/VanguardDashboard-IronhackProject_17783144758370/VanguardDashboard?publish=yes) |
-| 📽 **Story Presentation** | [Vanguard Presentation on Tableau Public](https://public.tableau.com/app/profile/kanak.yadav2046/viz/VanguardPresentation-IronhackProject/VanguardPresentation?publish=yes) |
-
+| 📊 **Interactive Dashboard** | [Vanguard Dashboard on Tableau Public](https://public.tableau.com/app/profile/selasey.dick.junior.gbeddy/viz/Vanguard_Assurance_UX_UI_Test_Dasboard/Dashboard1#1) |
 ---
 
 ## Dashboard Sheets
 
-- **KPI Cards** — Completion rate lift, total users, completions, error rate summary
-- **Completion Rate — Test vs Control** — Bar chart comparing group completion rates
-- **Error Rate per Funnel Step** — Backward navigation rate per step per group
-- **Median Time per Step** — Time spent at each step (Mann-Whitney U test)
-- **Client Distribution by Age Group** — Younger / Adult / Senior / Oldie breakdown
-- **Completion Rate by Age Group** — Segmented funnel performance
-- **Gender Distribution** — Participant gender split
+- **Test Completion rate** — Completion rate lift, total users, completions, error rate summary
+- **Control Completion rate**
+- **Test Error rate**
+- **Control Error rate**
+- **Total Users**
+- **Completion difference**
+- **Time Trend**
+- **User Journey Funnel**
+- **Completion vs Error rate**
+- **Heatmap Error rate**
+- **Gender Demographics**
 
 ---
 
@@ -120,7 +124,7 @@ The analysis covers funnel performance, error rates, time-on-step behavior, and 
 |---|---|---|
 | **Kanak Yadav** | [@Kanak2208](https://github.com/Kanak2208) | EDA, Data analysis, hypothesis testing, Tableau dashboards, presentation, Github |
 | **Diego Fornero** | [furby990](https://github.com/furby990) | EDA, funnel analysis, presentation |
-| **Selasey Junior** | [Selaseyjr](https://github.com/Selaseyjr) | Demographics analysis, hypothesis testing, presentation |
+| **Selasey Junior** | [Selaseyjr](https://github.com/Selaseyjr) | EDA, Demographics analysis, hypothesis testing, Tableau dashboards, Github, presentation |
 
 ---
 

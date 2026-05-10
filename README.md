@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project analyzes the results of a real-world A/B experiment conducted by **Vanguard**, one of the world's largest investment management companies. Vanguard tested a redesigned digital onboarding interface against their existing one to determine whether the new UI improved client completion rates.
+This project analyzes the results of a real-world A/B experiment conducted by **Vanguard**, one of the world's largest investment management companies. Vanguard tested a redesigned digital onboarding interface against their existing one to determine whether the new UI improved client completion rates and if the difference met the newly set Threshold of 5%.
 
 The analysis covers funnel performance, error rates, time-on-step behavior, and demographic breakdowns — with formal hypothesis testing to validate findings.
 
@@ -21,6 +21,7 @@ The analysis covers funnel performance, error rates, time-on-step behavior, and 
 | **Test (B)** | Redesigned interface — 26,968 clients |
 | **Total clients** | 50,500 (after data cleaning) |
 | **Significance level** | α = 0.05 |
+| **Experiment Threshold** | 5% |
 
 ---
 
